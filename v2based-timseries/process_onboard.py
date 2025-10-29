@@ -589,7 +589,7 @@ if __name__ == "__main__":
     # Generate output filename
     import os
     base_name = os.path.splitext(os.path.basename(INPUT_VIDEO))[0]
-    OUTPUT_VIDEO = f"{base_name}_motion_tracked.mp4"
+    OUTPUT_VIDEO = f"{base_name}_motion_tracked_2.mp4"
     
     print(f"\n📹 Input: {INPUT_VIDEO}")
     print(f"💾 Output: {OUTPUT_VIDEO}")
