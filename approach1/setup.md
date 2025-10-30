@@ -1,4 +1,4 @@
-# FrameShift - Simple Setup
+₹# FrameShift - Simple Setup
 
 This is a minimal setup for running the `v1.py` demo on Windows (PowerShell).
 
